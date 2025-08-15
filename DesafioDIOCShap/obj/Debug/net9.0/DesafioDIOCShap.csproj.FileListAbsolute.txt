@@ -1,0 +1,14 @@
+C:\Instacionamento\DesafioDIOCShap\bin\Debug\net9.0\DesafioDIOCShap.exe
+C:\Instacionamento\DesafioDIOCShap\bin\Debug\net9.0\DesafioDIOCShap.deps.json
+C:\Instacionamento\DesafioDIOCShap\bin\Debug\net9.0\DesafioDIOCShap.runtimeconfig.json
+C:\Instacionamento\DesafioDIOCShap\bin\Debug\net9.0\DesafioDIOCShap.dll
+C:\Instacionamento\DesafioDIOCShap\bin\Debug\net9.0\DesafioDIOCShap.pdb
+C:\Instacionamento\DesafioDIOCShap\obj\Debug\net9.0\DesafioDIOCShap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Instacionamento\DesafioDIOCShap\obj\Debug\net9.0\DesafioDIOCShap.AssemblyInfoInputs.cache
+C:\Instacionamento\DesafioDIOCShap\obj\Debug\net9.0\DesafioDIOCShap.AssemblyInfo.cs
+C:\Instacionamento\DesafioDIOCShap\obj\Debug\net9.0\DesafioDIOCShap.csproj.CoreCompileInputs.cache
+C:\Instacionamento\DesafioDIOCShap\obj\Debug\net9.0\DesafioDIOCShap.dll
+C:\Instacionamento\DesafioDIOCShap\obj\Debug\net9.0\refint\DesafioDIOCShap.dll
+C:\Instacionamento\DesafioDIOCShap\obj\Debug\net9.0\DesafioDIOCShap.pdb
+C:\Instacionamento\DesafioDIOCShap\obj\Debug\net9.0\DesafioDIOCShap.genruntimeconfig.cache
+C:\Instacionamento\DesafioDIOCShap\obj\Debug\net9.0\ref\DesafioDIOCShap.dll
